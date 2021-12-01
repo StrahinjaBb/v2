@@ -1,3 +1,8 @@
 body {
     background-color: aqua;
 }
+
+button {
+    background-color: burlywood;
+    font-weight: bolder;
+}
